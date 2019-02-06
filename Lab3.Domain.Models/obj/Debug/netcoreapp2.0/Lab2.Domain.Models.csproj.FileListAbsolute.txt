@@ -1,0 +1,18 @@
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.deps.json
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.deps.json
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Models\obj\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb

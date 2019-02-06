@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.8.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab3.Domain.Services\Lab3.Domain.Services.csproj" />
+    <ProjectReference Include="..\Lab3.Infrastructure.Sql\Lab3.Infrastructure.Sql.csproj" />
+    <ProjectReference Include="..\Lab3.Infrastructure\Lab3.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

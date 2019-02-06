@@ -1,0 +1,16 @@
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.deps.json
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.runtimeconfig.json
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.runtimeconfig.dev.json
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Domain.Models.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Domain.Models.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.csproj.CopyComplete
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Lab3.Infrastructure.Sql.pdb

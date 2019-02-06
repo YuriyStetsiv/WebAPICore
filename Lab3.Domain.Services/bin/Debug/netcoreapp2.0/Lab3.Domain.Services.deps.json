@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Lab3.Domain.Services/1.0.0": {
+        "dependencies": {
+          "Lab3.Domain.Models": "1.0.0",
+          "Lab3.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Lab3.Domain.Services.dll": {}
+        }
+      },
+      "Lab3.Domain.Models/1.0.0": {
+        "runtime": {
+          "Lab3.Domain.Models.dll": {}
+        }
+      },
+      "Lab3.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Lab3.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Lab3.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab3.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab3.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab3.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,42 @@
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.deps.json
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Infrastructure.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Infrastructure.pdb
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CopyComplete
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.deps.json
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Infrastructure.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Models.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Infrastructure.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CopyComplete
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Server Lab\Lab2\Lab2.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.deps.json
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab3.Domain.Models.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab3.Domain.Models.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\bin\Debug\netcoreapp2.0\Lab3.Infrastructure.pdb
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csprojAssemblyReference.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.AssemblyInfo.cs
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.csproj.CopyComplete
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.dll
+C:\Users\Stels\Desktop\Server Lab\Lab3\WebAPI\Lab3.Domain.Services\obj\Debug\netcoreapp2.0\Lab2.Domain.Services.pdb
